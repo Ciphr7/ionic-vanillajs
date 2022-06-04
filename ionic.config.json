@@ -1,7 +1,8 @@
 {
   "name": "ionic-vanillajs",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "capacitor": {}
   },
   "type": "custom"
 }

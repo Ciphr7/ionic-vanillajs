@@ -19,6 +19,7 @@
     "@babel/node": "^7.8.4",
     "@babel/preset-env": "^7.8.4",
     "@babel/register": "^7.8.3",
+    "@capacitor/cli": "^3.5.1",
     "babel-loader": "^8.0.6",
     "css-loader": "^3.4.2",
     "file-loader": "^4.3.0",
@@ -31,6 +32,9 @@
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
+    "@capacitor/android": "3.5.1",
+    "@capacitor/core": "^3.5.1",
+    "@capacitor/ios": "3.5.1",
     "cordova-android": "8.1.0",
     "cordova-plugin-device": "^2.0.3",
     "cordova-plugin-ionic-keyboard": "^2.2.0",
